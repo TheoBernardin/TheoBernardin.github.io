@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: theobernardin.github.io
+Token: 08b23f6f41a6cbb34ab249fb81c92d5a9663c3a71551c7425f7957557dee8bf8
